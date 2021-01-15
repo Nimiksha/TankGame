@@ -8,13 +8,13 @@
 **Current Working directory:** csc413-tankgame-Nimiksha/src/tankgame
 
 **How to run the game:**
-1. Inside the GitHub repo: csc413-tankgame-Nimiksha locate jar folder named jar.
+1. Inside the GitHub repo locate jar folder named jar.
 2. In the jar folder click csc413-tankgame-Nimiksha-jar folder and then run the csc413-tankgame-Nimiksha.jar file.
  It should launch Tank game
 
 ----
 1. To build this project on Intellij, clone the GitHub repo 
-https://github.com/csc413-01-fall2019/csc413-tankgame-Nimiksha
+https://github.com/Nimiksha/TankGame
 2. Then import the cloned project on IntelliJ. 
 4. Then build and run the game. The driver class is TankGame
 
